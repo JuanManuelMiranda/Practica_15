@@ -1,0 +1,12 @@
+# Ignorar carpetas de compilación
+build/
+
+# Ignorar configuración de VSCode
+.vscode/
+
+# Ignorar archivos generados
+*.obj
+*.log
+*.elf
+*.bin
+*.uf2
